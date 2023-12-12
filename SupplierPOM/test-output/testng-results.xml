@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-12T03:23:33 EST" name="Default suite" finished-at="2023-12-12T03:23:40 EST" duration-ms="7345">
+  <suite started-at="2023-12-12T05:39:35 EST" name="Default suite" finished-at="2023-12-12T05:39:42 EST" duration-ms="7105">
     <groups>
     </groups>
-    <test started-at="2023-12-12T03:23:33 EST" name="Default test" finished-at="2023-12-12T03:23:40 EST" duration-ms="7345">
+    <test started-at="2023-12-12T05:39:35 EST" name="Default test" finished-at="2023-12-12T05:39:42 EST" duration-ms="7105">
       <class name="Test.Logintest">
-        <test-method signature="loginsuppllier(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.Logintest@5505ae1a]" started-at="2023-12-12T03:23:33 EST" name="loginsuppllier" data-provider="labourcategory" finished-at="2023-12-12T03:23:40 EST" duration-ms="6809" status="PASS">
+        <test-method signature="loginsuppllier(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.Logintest@1e461e41]" started-at="2023-12-12T05:39:35 EST" name="loginsuppllier" data-provider="labourcategory" finished-at="2023-12-12T05:39:42 EST" duration-ms="6365" status="PASS">
           <params>
             <param index="0">
               <value>
