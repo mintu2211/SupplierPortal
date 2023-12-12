@@ -53,7 +53,7 @@ public class Extent12dec implements ITestListener {
     public void onTestSuccess(ITestResult result) {
         extentTest.log(Status.PASS, "Test Case Passed: " + result.getName());
         
-     // Capture screenshot and add to report
+     // Capture screenshot and add to 
         if (driver instanceof TakesScreenshot) {
             String base64Screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BASE64);
             extentTest.log(Status.PASS, MarkupHelper.createLabel("Screenshot:", ExtentColor.GREEN));
