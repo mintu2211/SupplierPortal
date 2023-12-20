@@ -1,5 +1,6 @@
-[INFO ] 2023-12-12 05:46:15.341 [main] SupplierTestLogs - open browser
-[INFO ] 2023-12-12 05:46:15.630 [main] SupplierTestLogs - enter url
-[INFO ] 2023-12-12 05:46:15.826 [main] SupplierTestLogs - enter username
-[INFO ] 2023-12-12 05:46:15.868 [main] SupplierTestLogs - enter password
-[INFO ] 2023-12-12 05:46:15.988 [main] SupplierTestLogs - click on submit
+
+[INFO ] 2023-12-13 02:11:52.220 [main] SupplierTestLogs - open browser
+[INFO ] 2023-12-13 02:11:52.392 [main] SupplierTestLogs - enter url
+[INFO ] 2023-12-13 02:11:52.585 [main] SupplierTestLogs - enter username
+[INFO ] 2023-12-13 02:11:52.624 [main] SupplierTestLogs - enter password
+[INFO ] 2023-12-13 02:11:52.786 [main] SupplierTestLogs - click on submit

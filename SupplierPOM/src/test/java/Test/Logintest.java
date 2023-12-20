@@ -16,7 +16,7 @@ import Utilities.Excellabourcat;
 import Utilities.Extent12dec;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-@Listeners(Extent12dec.class)
+@Listeners(Utilities.Listeners.class)
 public class Logintest {
 
 	public static Logger logger;

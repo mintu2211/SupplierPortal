@@ -19,9 +19,7 @@
   </properties>
 
   <dependencies>
-  
-   
-    
+     
     <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-simple</artifactId>
@@ -67,6 +65,7 @@
     <artifactId>webdrivermanager</artifactId>
     <version>5.5.3</version>
 </dependency>
+
 <!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
 <dependency>
     <groupId>com.github.javafaker</groupId>
@@ -99,8 +98,7 @@
     <version>5.0.9</version>
 </dependency>
 
-    
-    
+       
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
@@ -109,9 +107,10 @@
     <scope>test</scope>
 </dependency>
 
+
   	<dependency>
-  		<groupId>NewSP</groupId>
-  		<artifactId>NewSP</artifactId>
+  		<groupId>DemoSupplier</groupId>
+  		<artifactId>DemoSupplier</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
